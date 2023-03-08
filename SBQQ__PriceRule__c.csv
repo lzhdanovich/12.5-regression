@@ -1,9 +1,0 @@
-"Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__TargetObject__c"
-127cd899-5ab1-4919-978c-0e4000839013,Test2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
-1621d372-cd8e-4806-9d3c-672486666c02,Test3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
-54cf48b4-aadc-45ec-adab-20810cc843e4,Test Rule,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
-57934f6b-2662-4193-9bcc-f5a0539105b1,Test Rule,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
-6d5240fe-a54c-4dbb-b903-6bfce809b969,Cs Test - Uno,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
-ab094227-dd8b-4180-9106-d01187ec3d03,Test3,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
-dff9aa9d-b749-4ffc-b88f-b3c945c16f3a,Test-cs,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Calculator
-e7767639-abed-47e5-9c5a-2fca7cc0aaf1,Test2,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A",Configurator
